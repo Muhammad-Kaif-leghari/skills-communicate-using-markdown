@@ -27,3 +27,13 @@ This concludes our example of headers.
 ## Code:
 ```javascript
 var greeting = "Hello World!";
+```
+
+## List:
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+
+
+
