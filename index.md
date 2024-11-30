@@ -20,3 +20,6 @@ Headers in markdown are created with `#` characters followed by a space. Use fro
 
 ###### End Note
 This concludes our example of headers.
+
+### Image:
+![Markdown logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s)
